@@ -29,7 +29,5 @@ Meal Explorer is a Swift-based iOS app using Storyboard and TheMealDB API. It al
 | JSON Parsing     | Codable Protocol |
 | Tools            | Xcode, Auto Layout |
 
----
 
-## 📂 Project Structure
 
